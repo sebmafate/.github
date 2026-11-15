@@ -1,6 +1,6 @@
 ## Salut 👋 Je suis Sébastien
 
-**Architecte solution Azure · Expert .NET / C# · Tech Lead**, à Grenoble.
+**Architecte solution Azure · Expert .NET / C# · Tech Lead**, à Grenoble (France 🇫🇷).
 
 Je conçois et je fais évoluer des applications et des plateformes depuis plus de vingt-cinq ans. J'aime concevoir solide et avancer régulièrement.
 
