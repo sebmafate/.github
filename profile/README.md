@@ -1,6 +1,6 @@
 ## Salut 👋 Je suis Sébastien
 
-**Architecte solution Azure · Expert .NET / C# · Tech Lead**, à Chambéry (France 🇫🇷).
+**Architecte solution Azure · Expert .NET / C# · Tech Lead**, à Grenoble.
 
 Je conçois et je fais évoluer des applications et des plateformes depuis plus de vingt-cinq ans. J'aime concevoir solide et avancer régulièrement.
 
@@ -10,7 +10,8 @@ Je conçois et je fais évoluer des applications et des plateformes depuis plus 
 
 - **[Allure+](https://allureplus.app)** : application d'entraînement et de suivi de la performance. En production sur iOS (SwiftUI), le portage Android (Kotlin Multiplatform) est en cours.
 - **[Soaro](https://soaro.app)** : application de la barre de menus de macOS pour surveiller le Mac et le garder propre. Swift natif, sans collecte de données, [open source](https://github.com/sebmafate/soaro).
-- **Cocardo** : une application web en construction (C#, .NET 10). Pour le moment, je préfère garder le mystère ;).
+- **[Trellis](https://github.com/sebmafate/trellis)** : extension [Claude Code](https://claude.com/claude-code) (skills et agents) qui accompagne un projet de l'idée au logiciel livré. Chaque phase écrit un fichier dans le dépôt, que la suivante relit. Open source (MIT).
+- **Cocardo** : une application web en construction (C#, .NET 10). Je pose le métier et l'architecture avant d'écrire le code, et je note chaque décision.
 
 ### 📦 Mes dépôts publics
 
@@ -36,11 +37,11 @@ Je conçois et je fais évoluer des applications et des plateformes depuis plus 
 
 ### 🧰 Mes outils
 
-**C# · .NET · Azure · Bicep · CI/CD** · TypeScript · React · Swift · SwiftUI · Kotlin · PostgreSQL · Claude Code
+**C# · .NET · Azure · Bicep · CI/CD** · TypeScript · React · Swift · SwiftUI · Kotlin · PostgreSQL
 
 ### 🏅 Et en dehors du code
 
-Triathlète depuis 2015, entraîneur en club (course à pied et vélo) depuis 2017. Je fais aussi de la photo, et de la musique : cor d'harmonie, guitare basse, guitare électrique, arrangement.
+Triathlète depuis 2015, entraîneur en club (course à pied et vélo) depuis 2017. Je fais aussi de la photo, et de la musique : cor, guitare basse, guitare électrique, arrangement.
 
 ### 💬 Parlez-moi de…
 
@@ -48,4 +49,4 @@ Architecture Azure, .NET, mise en production sans secret, qualité du code, ou d
 
 ---
 
-🇬🇧 *Solution architect (Azure, .NET / C#) and tech lead, with over 25 years of experience. I build [Allure+](https://allureplus.app), a training app, and [Soaro](https://soaro.app), an open source macOS menu bar app. My public repositories are above. English version of my portfolio: [sferrand.fr/en/](https://sferrand.fr/en/).*
+🇬🇧 *Solution architect (Azure, .NET / C#) and tech lead, with over 25 years of experience. I build [Allure+](https://allureplus.app), a training app, [Soaro](https://soaro.app), an open source macOS menu bar app, and [Trellis](https://github.com/sebmafate/trellis), an open source Claude Code plugin that carries a project from idea to shipped software. My public repositories are above. English version of my portfolio: [sferrand.fr/en/](https://sferrand.fr/en/).*
