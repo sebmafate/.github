@@ -1,6 +1,6 @@
 ## Salut 👋 Je suis Sébastien
 
-**Architecte solution Azure · Expert .NET / C# · Tech Lead**, à Grenoble.
+**Architecte solution Azure · Expert .NET / C# · Tech Lead**, à Chambéry (France 🇫🇷).
 
 Je conçois et je fais évoluer des applications et des plateformes depuis plus de vingt-cinq ans. J'aime concevoir solide et avancer régulièrement.
 
@@ -11,7 +11,7 @@ Je conçois et je fais évoluer des applications et des plateformes depuis plus 
 - **[Allure+](https://allureplus.app)** : application d'entraînement et de suivi de la performance. En production sur iOS (SwiftUI), le portage Android (Kotlin Multiplatform) est en cours.
 - **[Soaro](https://soaro.app)** : application de la barre de menus de macOS pour surveiller le Mac et le garder propre. Swift natif, sans collecte de données, [open source](https://github.com/sebmafate/soaro).
 - **[Trellis](https://github.com/sebmafate/trellis)** : extension [Claude Code](https://claude.com/claude-code) (skills et agents) qui accompagne un projet de l'idée au logiciel livré. Chaque phase écrit un fichier dans le dépôt, que la suivante relit. Open source (MIT).
-- **Cocardo** : une application web en construction (C#, .NET 10). Je pose le métier et l'architecture avant d'écrire le code, et je note chaque décision.
+- **Cocardo** : une application web en construction (C#, .NET 10). Pour le moment, je préfère garder le mystère ;).
 
 ### 📦 Mes dépôts publics
 
@@ -37,11 +37,11 @@ Je conçois et je fais évoluer des applications et des plateformes depuis plus 
 
 ### 🧰 Mes outils
 
-**C# · .NET · Azure · Bicep · CI/CD** · TypeScript · React · Swift · SwiftUI · Kotlin · PostgreSQL
+**C# · .NET · Azure · Bicep · CI/CD** · TypeScript · React · Swift · SwiftUI · Kotlin · PostgreSQL · Claude Code
 
 ### 🏅 Et en dehors du code
 
-Triathlète depuis 2015, entraîneur en club (course à pied et vélo) depuis 2017. Je fais aussi de la photo, et de la musique : cor, guitare basse, guitare électrique, arrangement.
+Triathlète depuis 2015, entraîneur en club (course à pied et vélo) depuis 2017. Je fais aussi de la photo, et de la musique : cor d'harmonie, guitare basse, guitare électrique, arrangement.
 
 ### 💬 Parlez-moi de…
 
